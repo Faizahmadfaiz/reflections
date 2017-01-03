@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+	A .git hidden directory was created in the directory.We need to do it because after creating repositoriy we can move that directory anywhere we will be able to make git commands.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	Staging area acts as a middle between working directory and repository.Before committing a file into repository it is first added to staging area,multiple files can be added to staging area and then at once they are committed to repository.
